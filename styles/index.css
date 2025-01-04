@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body { 
+  background-color: rgb(204, 203, 203);
+}
+
+
+.title {
+  text-align: center;
+  font-size: 48px;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.alfredo, .lasagna, .pinon { 
+  font-size: 20px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  cursor: pointer;
+  text-align: center;
+  display: block;
+  padding: 10px;
+  margin-top: 10px;
+  color: white;
+}
+
+.lasagna {
+  color: red;
+}
+
+.pinon {
+  color: yellow;
+}
