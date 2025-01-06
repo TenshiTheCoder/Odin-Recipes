@@ -1,0 +1,46 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.pinon-title {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.pinon-image {
+  height: 300px;
+  padding: 15px;
+}
+
+h2 {
+  padding: 10px;
+}
+
+p {
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.pinon-ingredients {
+  padding-left: 30px;
+}
+
+.pinon-ingredients p {
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.pinon-steps {
+  padding-left: 30px;
+  padding-bottom: 5px;
+  line-height: 1.5;
+}
+
+.pinon-steps p {
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 18px;
+}
