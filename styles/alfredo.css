@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+.alfredo-title {
+  font-size: 30px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  text-align: center;
+  padding: 5px;
+}
+
+.alfredo-image {
+  height: auto;
+  max-width: 100%;
+  padding: 10px;
+}
+
+.description-title {
+  font-size: 25px;
+  padding-bottom: 5px;
+}
+
+.alfredo-description {
+  font-size: 20px;
+  padding-left: 15px;
+}
+
+.ingredients-start {
+  padding-top: 10px;
+}
+
+.ingredients-list {
+padding-left: 30px;
+}
+
+.ingredients li {
+  line-height: 25px;
+  padding-left: 15px;
+}
+
+.steps {
+
+}
+
+.steps p {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+.steps li {
+  line-height: 25px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+}
+
+.finale {
+  font-weight: bold;
+  font-size: 20px;
+}
